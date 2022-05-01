@@ -1,0 +1,7 @@
+#Sat Apr 30 19:50:17 CDT 2022
+base.0=C\:\\Users\\Lucio\\Downloads\\DragonHacksProject\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\Lucio\\Downloads\\DragonHacksProject\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
