@@ -1,0 +1,11 @@
+com/example/dragonhacksproject/MainActivity.java
+ com.example.dragonhacksproject.MainActivity
+ com.example.dragonhacksproject.MainActivity$1
+com/example/dragonhacksproject/SecondFragment.java
+ com.example.dragonhacksproject.SecondFragment
+ com.example.dragonhacksproject.SecondFragment$1
+com/example/dragonhacksproject/BuildConfig.java
+ com.example.dragonhacksproject.BuildConfig
+com/example/dragonhacksproject/FirstFragment.java
+ com.example.dragonhacksproject.FirstFragment
+ com.example.dragonhacksproject.FirstFragment$1
